@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/target/classes;C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/target/test-classes;C:/Users/Jason-Pavillon/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Jason-Pavillon/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Jason-Pavillon/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/Jason-Pavillon/Documents/Software-quality/Lab1_SQ/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\classes = 1706240780788
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\test-classes = 1706240781006
+C:\Users\Jason-Pavillon\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1663164024671
+C:\Users\Jason-Pavillon\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1663163924029
+C:\Users\Jason-Pavillon\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1706204234413
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\src\test\java = 1706203074007
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706242063645
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706242063651
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\element-list = 1706242063534
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706242063711
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\index-all.html = 1706242063697
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\index.html = 1706242063701
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706242063793
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706242063664
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706242063655
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706242063612
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706242063658
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\script.js = 1706242063721
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\search.js = 1706242063728
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706242063717
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706242063668
+C:\Users\Jason-Pavillon\Documents\Software-quality\Lab1_SQ\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706242063662
