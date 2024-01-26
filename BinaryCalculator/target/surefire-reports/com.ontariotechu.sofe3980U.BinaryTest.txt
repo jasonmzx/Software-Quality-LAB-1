@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.ontariotechu.sofe3980U.BinaryTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.ontariotechu.sofe3980U.BinaryTest
+multiply3(com.ontariotechu.sofe3980U.BinaryTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.ontariotechu.sofe3980U.BinaryTest.multiply3(BinaryTest.java:166)
+
+add5(com.ontariotechu.sofe3980U.BinaryTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.ontariotechu.sofe3980U.BinaryTest.add5(BinaryTest.java:119)
+
+constructorEmptyString(com.ontariotechu.sofe3980U.BinaryTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.ontariotechu.sofe3980U.BinaryTest.constructorEmptyString(BinaryTest.java:64)
+
